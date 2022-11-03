@@ -1,5 +1,5 @@
 {
-  "name": "adcog-cpi/eb-emailbundle",
+  "name": "adcog-cpi/email-bundle",
   "description": "Dead simple mailer",
   "type": "symfony-bundle",
   "require": {
